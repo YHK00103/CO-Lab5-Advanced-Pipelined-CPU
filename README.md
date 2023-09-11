@@ -7,7 +7,7 @@ with (1)hazard detection and (2) data forwarding.
 ## Lab Requirement
 1. Your CPU needs to support the following instructions:   
   I. Basic Instructions:  
-       i. ADD  
+    i. ADD  
     ii. ADDI  
     iii. SUB  
     iv. AND  
@@ -16,7 +16,7 @@ with (1)hazard detection and (2) data forwarding.
     vii. SLTI  
     viii. LW  
     ix. SW  
-    x. MULT  
+    x. MULT
 II. Advanced Instructions  
 ![image](https://github.com/YHK00103/CO-Lab5-Advanced-Pipelined-CPU/assets/117156581/67dd8485-3b98-4bfb-894b-d781f468889d)  
 (Modify Hazard Detection Unit to flush useless pipeline registers (IF/ID, ID/EX, 
