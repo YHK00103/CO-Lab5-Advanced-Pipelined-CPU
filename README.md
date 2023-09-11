@@ -7,7 +7,7 @@ with (1)hazard detection and (2) data forwarding.
 ## Lab Requirement
 1. Your CPU needs to support the following instructions:   
   I. Basic Instructions:  
-     i. ADD  
+    ⋅⋅⋅i. ADD  
     ii. ADDI  
     iii. SUB  
     iv. AND  
